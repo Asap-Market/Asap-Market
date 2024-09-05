@@ -4,7 +4,6 @@
     <p>ASAP Market is a darknet platform dedicated exclusively to the sale of narcotics. It sets itself apart from other
         marketplaces by prioritizing security, privacy, and reliability, appealing to users who value confidentiality
         above all.</p>
-
     <h2>Overview of ASAP Market</h2>
     <p>ASAP Market is a specialized dark web marketplace focused on trading narcotic substances. It is known for its
         strong security protocols, rigorous vendor screening, and exclusive use of Monero (XMR) for transactions. The
@@ -13,7 +12,6 @@
     <p>What makes ASAP Market unique is its comprehensive security features, including two-factor authentication (2FA),
         automatic fund withdrawals, anti-phishing mechanisms, and an option to delete accounts entirely. The platform is
         well-regarded within the darknet community for its reliability and emphasis on quality products.</p>
-
     <p><a href="https://asap-markets.com">Visit Market</a></p>
     <p><a href="#">Download TOR</a></p>
     <h2>Key Features of ASAP Market</h2>
