@@ -1,5 +1,4 @@
 <body>
-
     <h1>Welcome to ASAP Market</h1>
     <p><a href="http://asap4g7boedkl3fxbnf2unnnr6kpxnwoewzw4vakaxiuzfdo5xpmy6ad.onion/">http://asap4g7boedkl3fxbnf2unnnr6kpxnwoewzw4vakaxiuzfdo5xpmy6ad.onion/</a></p>
     <p>ASAP Market is a darknet platform dedicated exclusively to the sale of narcotics. It sets itself apart from other
